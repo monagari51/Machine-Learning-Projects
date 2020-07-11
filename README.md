@@ -1,6 +1,5 @@
 # Machine-Learning-Projects
-Machine Learning Projects
-Dataset Python 3.6 NLTK
+
 
 Description about repository:
 This repository consists of  Machine Learning Projects. Datasets are provided and also the solution to the problem statements have been provided.
