@@ -6,7 +6,7 @@ Description about repository:
 This repository consists of  Machine Learning Projects. Datasets are provided and also the solution to the problem statements have been provided.
 
 Algorithms used:
-• Linear Regression /n
+• Linear Regression
 • Logistic Regression
 • Support Vector Machine Regression/Classification
 • Naive Bayes Classification
