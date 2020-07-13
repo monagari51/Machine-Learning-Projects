@@ -1,10 +1,10 @@
 # Machine-Learning-Projects
 
 
-Description about repository:
+### Description about repository:
 This repository consists of  Machine Learning Projects. Datasets are provided and also the solution to the problem statements have been provided.
 
-Algorithms used:
+### Algorithms used:
 1. Linear Regression
 2. Logistic Regression
 3. Support Vector Machine Regression/Classification
