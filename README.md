@@ -7,13 +7,12 @@ This repository consists of  Machine Learning Projects. Datasets are provided an
 Algorithms used:
 1. Linear Regression
 2. Logistic Regression
-• Support Vector Machine Regression/Classification
-• Naive Bayes Classification
-• Decision Tree Regression/Classification
-• Random Forest Regression/Classification
-• K-Nearest Neighbours
-• K-Means
-• Adaptive Boosting (AdaBoost) Algorithm
-• Extreme Gradient Boosting (XGBoost) Algorithm
-• CatBoost Classifier
+3. Support Vector Machine Regression/Classification
+4. Naive Bayes Classification
+5. Decision Tree Regression/Classification
+6. Random Forest Regression/Classification
+7. K-Nearest Neighbours
+8. K-Means
+9. Extreme Gradient Boosting (XGBoost) Algorithm
+10. CatBoost Classifier
 
